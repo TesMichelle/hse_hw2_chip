@@ -21,7 +21,7 @@ replicate 2 была проведена обработка с помощью `tr
 ENCFF000BCI - replicate 2 - trimmed
 ![Alt text](/imgs/BCI_filtered.png?raw=true "Optional Title")
 
-После фильтрации прочтений качество заметно улучшилось.
+После фильтрации качество прочтений заметно улучшилось.
 
 ### Выравнивание
 
