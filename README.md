@@ -34,7 +34,9 @@ replicate 2 была проведена обработка с помощью `tr
 из образцов, а лишь те что могли попасть на данную хромосому. Доля 14-й хромосомы составляет около 3.5% всего генома человека. Процент уникальных выравниваний соответствует этому числу.  
 
 ### Диаграммы Венна
+ENCFF000BCE - replicate 1
 ![Alt text](/imgs/BCE_.png?raw=true "Optional Title")
 ![Alt text](/imgs/_BCE.png?raw=true "Optional Title")
+ENCFF000BCI - replicate 2
 ![Alt text](/imgs/BCI_.png?raw=true "Optional Title")
 ![Alt text](/imgs/_BCI.png?raw=true "Optional Title")
