@@ -18,6 +18,7 @@ ENCFF000BAU - control
 replicate 2 наблюдается очень сильный разброс в качестве прочтений, поэтому для
 replicate 2 была проведена обработка с помощью `trimmomatic`.
 
+ENCFF000BCI - replicate 2 - trimmed
 ![Alt text](/imgs/BCI_filtered.png?raw=true "Optional Title")
 
 После фильтрации прочтений качество заметно улучшилось.
